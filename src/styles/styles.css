@@ -344,12 +344,13 @@ main{
     width: 255px;
     height: 50px;
     border: 1px solid #1E3240;
+    outline: none;
+    padding-left: 18px;
 }
 
 #contact form input::placeholder{
     font-size: 18px;
     font-weight: 400;
-    padding-left: 18px;
 }
 
 #contact form textarea{
